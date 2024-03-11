@@ -1,0 +1,46 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.error {
+  color: red;
+  font-size: 12px;
+}
+.layout {
+  padding:15px;
+}
+.pagination {
+  float: right;
+}
+.Pageinate{
+  width : 100%;
+}
+.pagination .page-numbers.current {
+  background: #007bff;
+  padding: 6px 10px;
+  border-radius: 50%;
+  color: #fff;
+  margin-right: 3px;
+}
+.pagination .page-numbers {
+  background: #ddd;
+  padding: 6px 10px;
+  border-radius: 50%;
+  margin-right: 3px;
+}
+.content-migration fieldset {
+  border: solid 1px #7e8993;
+  margin-top: 25px;
+  border-radius: 5px;
+  padding: 15px;
+}
+.content-migration legend {
+  border: solid 1px #7e8993;
+  width: auto;
+  margin-left: 10px;
+  padding: 0px 10px 0px 10px;
+  border-radius: 5px;
+  font-size: 14px;
+  font-weight: bold;
+}
